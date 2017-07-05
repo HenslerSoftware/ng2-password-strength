@@ -2,6 +2,8 @@
 
 Check the strength of a password, with the option to add custom CSS classes.
 
+![Example](https://raw.githubusercontent.com/tonyhensler/ng2-password-strength/master/example.gif "Example")
+
 ## Installation
 
 To install this library, run:
